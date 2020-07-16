@@ -42,4 +42,4 @@ const requestHandler = (req, res) => {
 module.exports.handler = requestHandler;
 // // or/also
 
-exports.testText = "Some coded coded test texts";
+exports.testText = "Some hard coded test texts";
